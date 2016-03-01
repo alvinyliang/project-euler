@@ -1,3 +1,3 @@
-This is a simple script to download most Project Euler problems into .py files. Note there are a few bugs with this script and the problem descriptions do not include images.
+This is a script to download Project Euler problems into .py files.
 
-I used `Python v2.7.10` and a package called `beautifulsoup4`. You can install it using `pip install beautifulsoup4`.
+I used `Python v2.7.10` and a package called `beautifulsoup4`. Install it by running `pip install beautifulsoup4` on the command line.
